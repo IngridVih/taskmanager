@@ -90,4 +90,4 @@ taskmanager/
 ## Author
 
 **Ingrid Vitória Guimarães**  
-[LinkedIn](www.linkedin.com/in/ingrid-vitoria-guimaraes) · [GitHub](https://github.com/IngridVih)
+[LinkedIn](https://www.linkedin.com/in/ingrid-vitoria-guimaraes) · [GitHub](https://github.com/IngridVih)
